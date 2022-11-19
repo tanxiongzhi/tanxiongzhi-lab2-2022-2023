@@ -1,0 +1,2 @@
+Picture 1 is the movie interior table page. Click the button to jump to the movie details page
+Picture 2 is the movie details page. Click the button to return to the movie list page
